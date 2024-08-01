@@ -7,3 +7,11 @@ En concreto, mostramos cómo utilizar modelos de aprendizaje automático supervi
 <p align="center">
   <img width="450" src="fraud.jpg">
 </p>
+## <h3 align="center">🛠️ Miembros del Equipo</h3>
+<br>
+<div align="center"> 
+
+|Participantes|Roles|Redes|
+|:---:|:---:|:---:|
+|**Juan Campos**|![](https://img.shields.io/badge/DATA%20SCIENTIST-blue?style=for-the-badge)| <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/jumacaq/">[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jumacaq/)</a> |
+|**Augusto García**|![](https://img.shields.io/badge/DATA%20SCIENTIST-blue?style=for-the-badge)| <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/leopoldofloresc/">[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leopoldofloresc/)</a> |
